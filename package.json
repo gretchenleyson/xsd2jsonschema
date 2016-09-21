@@ -1,0 +1,30 @@
+{
+  "name": "xsd2jsonschema",
+  "version": "1.0.0",
+  "description": ".... # References ....",
+  "main": "xml2json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gretchenleyson/xsd2jsonschema.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gretchenleyson/xsd2jsonschema/issues"
+  },
+  "homepage": "https://github.com/gretchenleyson/xsd2jsonschema#readme",
+  "dependencies": {
+    "byline": "^5.0.0",
+    "minimist": "^1.2.0",
+    "request": "^2.75.0",
+    "xml2js": "^0.4.17",
+    "xml2js-xpath": "^0.4.4"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {}
+}
